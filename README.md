@@ -3,7 +3,8 @@
 Opa! Beleza? 😉
 Esse projeto faz parte de um desafio ao qual eu tive o prazer de participar. É um site para venda de quadrinhos da Marvel escrito em VueJS com UI design autoral.
 
-Bora dar uma olhada!
+Bora dar uma olhada? Você pode testá-lo [clicando aqui](https://comix-store.vercel.app)
+
 ## Como ficou o UI design
 ![ui-design](https://i.imgur.com/wDHdTcy.png)
 
