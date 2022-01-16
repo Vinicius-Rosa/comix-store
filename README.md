@@ -11,7 +11,7 @@ Bora dar uma olhada? Você pode testá-lo [clicando aqui](https://comix-store.ve
 ## Como rodar
 
 Vamos clonar o repo (certifique-se de que você está na branch "desafio"):
-> git clone https://github.com/Vinicius-Rosa/desafio-frontend-liberfly.git
+> git clone https://github.com/Vinicius-Rosa/comix-store.git
 
 Em seguida, instalamos as dependências do projeto:
 > yarn install
